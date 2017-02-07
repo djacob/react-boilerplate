@@ -1,0 +1,4 @@
+build/
+app/libs/
+coverage/
+node_modules/

@@ -1,0 +1,1 @@
+export const headerMessage = state => state.message;
